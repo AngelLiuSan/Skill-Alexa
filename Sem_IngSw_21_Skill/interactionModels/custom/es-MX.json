@@ -1,0 +1,85 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "frase del dia",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "TristeIntent",
+          "slots": [],
+          "samples": [
+            "Estoy triste",
+            "Triste",
+            "Tristesa",
+            "Me siento triste"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "FelizIntent",
+          "slots": [],
+          "samples": [
+            "Felicidad",
+            "Estoy feliz",
+            "Feliz",
+            "Me siento feliz"
+          ]
+        },
+        {
+          "name": "InspiIntent",
+          "slots": [],
+          "samples": [
+            "Estoy inspirado",
+            "inspirado",
+            "Me siento inspirado"
+          ]
+        },
+        {
+          "name": "PensarIntent",
+          "slots": [],
+          "samples": [
+            "estoy pensativo ",
+            "Pensativo",
+            "Me siento pensativo"
+          ]
+        },
+        {
+          "name": "EnojoIntent",
+          "slots": [],
+          "samples": [
+            "estoy enojado",
+            "Me siento enojado",
+            "Enojo"
+          ]
+        },
+        {
+          "name": "PreIntent",
+          "slots": [],
+          "samples": [
+            "Me siento preocupado",
+            "Me siento preocupada",
+            "Estoy preocupada",
+            "Estoy preocupado",
+            "Preocupado"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "8"
+}
